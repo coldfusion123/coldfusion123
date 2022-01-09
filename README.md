@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coldfusion123
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS, ReactJs
 
 <!---
 coldfusion123/coldfusion123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
