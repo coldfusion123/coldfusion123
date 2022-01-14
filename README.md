@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dindareanuandrei@gmail.com**
 
-- 🌌 Facts **universe is a big place, perhaps the biggest**
+- 🌌 Facts **"universe is a big place, perhaps the biggest"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
