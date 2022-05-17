@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm coldfusion123</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **JavaScript, React and Figma**
+- 🌱 I’m currently learning **JavaScript, React, Figma and Firebase**
 
 - 📫 How to reach me **dindareanuandrei@gmail.com**
 
